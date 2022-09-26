@@ -1,5 +1,0 @@
-*****************************QUESTION-2******************************
-Applications of circular linked list:-
- 1) Audio/video conferncing
- 2) Circular Escalators
- 3) Top to web page button - takes us back to top of web page
