@@ -1,0 +1,7 @@
+*************************************QUESTION 1***********************************
+Algorithm :-
+1) Set head = NULL
+2) Then for pushing first element into the circular linked list set this node as head and its pointer to itself!
+3) Our circular linked list is created
+4) For pushing more elements use do while loop and push element at last node before head
+5) Hence we create our circular linked list with any number of nodes!
