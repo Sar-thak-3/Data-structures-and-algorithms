@@ -1,3 +1,4 @@
+// Do not input more than 100 size array/list!
 #include"bits/stdc++.h"
 using namespace std;
 
